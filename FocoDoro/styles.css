@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #D40A3383;
+    /* background-color: rgb(31, 116, 156); */
+  }
+  
+  .container {
+    margin-top: 100px;
+  }
+  
+  h1 {
+    font-size: 36px;
+  }
+  
+  #timer {
+    font-size: 72px;
+    margin-bottom: 20px;
+  }
+  
+  .controls button {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 0 10px;
+    cursor: pointer;
+  }
+  
+  .controls button:hover {
+    background-color: #c53a3a;
+  }
+  
